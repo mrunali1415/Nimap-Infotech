@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Mrunali14",
+    "password": "Mrunali@14",
+    "database": "NIMAP_INFOTECH",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "Mrunali14",
+    "password": "Mrunali@14",
+    "database": "NIMAP_INFOTECH",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "Mrunali14",
+    "password": "Mrunali@14",
+    "database": "NIMAP_INFOTECH",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
